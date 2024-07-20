@@ -223,6 +223,11 @@ div.orangedecor {
   padding-left: 0%;
   padding-right: 0%;
 }
+@media only screen and (max-width: 500px) {
+  .pcourse {
+    flex-direction: column;
+  }
+}
 .product2 {
   display: flex;
   justify-content: space-between;
@@ -245,6 +250,7 @@ div.orangedecor {
   padding-right: 5%;
   padding-top: 3%;
   padding-bottom: 3%;
+  margin: 5px;
 }
 .pcimg {
   width: 33%;
