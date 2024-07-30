@@ -1,5 +1,3 @@
-I am Aryan Gupta.
-
 code . //open in vs code
 git init //integrate in github
 new repo
